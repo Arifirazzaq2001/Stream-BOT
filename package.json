@@ -73,7 +73,7 @@
     "yt-search": "^2.10.1",
     "yargs": "^17.2.1"
   },
-  "license": "ISC",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/Arifirazzaq2001/Stream-BOT#readme",
   "devDependencies": {}
 }
